@@ -1,4 +1,8 @@
-## Objective
+## Repository Information
+
+- This pipeline is not running and will be used as a useful resource of code for future problems.
+
+## Problem Information
 
 The raw network packets of the UNSW-NB 15 dataset was created by the IXIA PerfectStorm tool in the Cyber Range Lab of the Australian Centre for Cyber Security (ACCS) for generating a hybrid of real modern normal activities and synthetic contemporary attack behaviours.
 
@@ -39,12 +43,13 @@ Free use of the UNSW-NB15 dataset for academic research purposes is hereby grant
 
 For more information, please contact the authors: Dr. Nour Moustafa and Professor Jill Slay. Dr. Nour is a lecturer in Cybersecurity with SEIT-UNSW Canberra, and he is interested in new Cyber threat intelligence approaches and the technology of Industry 4.0. More information about Dr Nour is provided on his pages:
 
-UNSW Webpage
-LinkedIn
-ResearchGate
-Source: https://www.unsw.adfa.edu.au/unsw-canberra-cyber/cybersecurity/ADFA-NB15-Datasets/
-Kaggle: https://www.kaggle.com/mrwellsdavid/unsw-nb15
+- UNSW Webpage
+- LinkedIn
+- ResearchGate
+- Source: https://www.unsw.adfa.edu.au/unsw-canberra-cyber/cybersecurity/ADFA-NB15-Datasets/
+- Kaggle: https://www.kaggle.com/mrwellsdavid/unsw-nb15
 
-## ReadMe
+## Next Steps
 
-- This pipeline is not running and will be used as a useful resource of code for future problems.
+- Transform into pipeline
+- Use OneVsRest method with different algorithms to investigate performance uplift
